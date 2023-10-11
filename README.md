@@ -1,6 +1,8 @@
 # ShadowView
-\
+<br>
 A simple Android library that draw shadows of any color around child views.
+<br>
+<br>
 # Gradle setup
 ``` gradle
 repositories {
