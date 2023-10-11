@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+    <com.mbs.shadow_view.ShadowView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:radius="12dp"
+        app:shadowAlpha="200"
+        app:shadowColor="#FF5722"
+        app:shadowPosition="center"
+        app:shadowSpread="3"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@color/black"
+            app:cardBackgroundColor="@color/black"
+            app:cardCornerRadius="12dp"
+            app:strokeColor="#FF5722"
+            app:strokeWidth="1dp" />
+
+    </com.mbs.shadow_view.ShadowView>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

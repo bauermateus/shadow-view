@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShadowView">
+        <attr name="clickTransferable" format="boolean" />
+        <attr name="radius" format="dimension" />
+        <attr name="shape" format="enum">
+            <enum name="rectangle" value="0" />
+            <enum name="oval" value="1" />
+            <enum name="line" value="2" />
+            <enum name="ring" value="3" />
+        </attr>
+        <attr name="shadowAlpha" format="integer" />
+        <attr name="shadowColor" format="string" />
+        <attr name="shadowSpread" format="integer" />
+        <attr name="selfClickable" format="boolean" />
+        <attr name="shadowPosition" format="enum">
+            <enum name="center" value="0" />
+            <enum name="right" value="1" />
+            <enum name="left" value="2" />
+            <enum name="top" value="3" />
+            <enum name="bottom" value="4" />
+        </attr>
+    </declare-styleable>
+</resources>
