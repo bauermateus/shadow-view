@@ -7,7 +7,7 @@ A simple Android library that draw shadows of any color around child views.
 \
 \
 \
-\
+
 # Gradle setup
 ``` gradle
 repositories {
