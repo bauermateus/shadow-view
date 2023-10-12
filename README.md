@@ -47,5 +47,5 @@ implementation 'com.github.bauermateus:shadow-view:0.2'
     </com.mbs.shadow_view.ShadowView>
 ```
 results in: 
-<img src="[URL_da_Imagem](https://github.com/bauermateus/shadow-view/assets/11887846/0d31cfae-8f1a-40f1-8795-c528573f6b89)" width="300">
+<img src="https://github.com/bauermateus/shadow-view/assets/11887846/0d31cfae-8f1a-40f1-8795-c528573f6b89" width="300">
 
