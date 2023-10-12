@@ -47,5 +47,5 @@ implementation 'com.github.bauermateus:shadow-view:0.2'
     </com.mbs.shadow_view.ShadowView>
 ```
 results in: 
-    ![Screenshot_1697068567](https://github.com/bauermateus/shadow-view/assets/11887846/0d31cfae-8f1a-40f1-8795-c528573f6b89){width=50%}
+    ![Screenshot_1697068567](https://github.com/bauermateus/shadow-view/assets/11887846/0d31cfae-8f1a-40f1-8795-c528573f6b89){width=300px}
 
