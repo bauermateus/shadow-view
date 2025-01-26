@@ -34,8 +34,7 @@ ShadowView acts like a FrameLayout, so it´s preferred if you place only one Vie
         app:shadowAlpha="200"
         app:shadowColor="#FF5722"
         app:shadowPosition="center"
-        app:shadowSpread="3"
-        tools:ignore="SpeakableTextPresentCheck">
+        app:shadowSpread="3">
 
         <com.google.android.material.card.MaterialCardView
             android:layout_width="100dp"
