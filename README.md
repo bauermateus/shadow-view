@@ -24,6 +24,8 @@ implementation 'com.github.bauermateus:shadow-view:0.2'
 
 # Usage
 
+ShadowView acts like a FrameLayout, so it´s preferred if you place only one View inside each ShadowView. CardView is recommended if you want to use cornerRadius more easily. Example:
+
 ``` xml
 <com.mbs.shadow_view.ShadowView
         android:layout_width="wrap_content"
